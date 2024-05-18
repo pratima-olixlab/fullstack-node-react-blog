@@ -1,5 +1,5 @@
 require('./db');
-require('./config/config');
+require('./config/config.js');
 
 const express = require('express');
 const app = express();
